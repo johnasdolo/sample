@@ -5,3 +5,4 @@ Address: T2 11-C Suntrust Parkview Ermita, Manila
 Gender: M
 School: University of Santo Tomas
 Course/Faculty: Engineering
+Major: Civil Engineering
